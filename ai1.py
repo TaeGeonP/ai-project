@@ -4,7 +4,7 @@ import pandas as pd
 import datetime
 
 # CSV 파일 이름
-file_name = "2023-11-10-bithumb-btc-orderbook.csv"
+file_name = "2023-11-12-bithumb-btc-orderbook.csv"
 
 while True:
     # 주문서 데이터 요청
